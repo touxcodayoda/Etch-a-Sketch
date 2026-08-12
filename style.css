@@ -1,0 +1,17 @@
+.container {
+    /* border-width: 10px;
+    border-style: solid;
+    border-color: black; */
+    display: flex;
+    flex-wrap: wrap;
+    width: 640px;
+    height: 640px;
+}
+
+.content {
+    width: 40px;
+    height: 40px;
+    border-color: gray;
+    border-width: 2px;
+    border-style: solid;
+}
